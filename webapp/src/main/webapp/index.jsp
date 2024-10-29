@@ -4,7 +4,7 @@
     <h2>Fill out this FORM!!</h2>
     <hr>
      
-    <label for="Name"><b>Enter Name: </b></label>
+    <label for="Name"><b>Enter Name Bro: </b></label>
     <input type="text" placeholder="Prasiddh Yadav" name="Name" id="Name" required>
     <br>
     
