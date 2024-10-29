@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Email as py@gmail.com" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password: </b></label>
+    <label for="psw"><b>Hidden new Password: </b></label>
     <input type="password" placeholder="Enter Password as 1234" name="psw" id="psw" required>
     <br>
 
