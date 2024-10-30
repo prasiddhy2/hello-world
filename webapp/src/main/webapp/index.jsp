@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New USER Registration for Prasiddh Yadavanshi :</h1>
-    <h2>Fill out this FORM!!</h2>
+    <h1>New USER Registration for Prasiddh Yadavanshi:</h1>
+    <h2>Fill this FORM!!</h2>
     <hr>
      
     <label for="Name"><b>Enter Name Bro: </b></label>
