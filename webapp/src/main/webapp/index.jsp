@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Prasiddh Yadav !!</h1>
+   <h1> Thankyou, Daksh Yadav !!</h1>
 
   
 </form>
