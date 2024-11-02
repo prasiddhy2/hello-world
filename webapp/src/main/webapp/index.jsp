@@ -1,10 +1,11 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New USER Registration for Surendra Yadav:</h1>
+    <h1>New user Registration for Prasiddh Yadav:</h1>
+    <h1>New user Registration for Daksh Yadav:</h1>
     <h2>Fill this FORM!!</h2>
     <hr>
      
-    <label for="Name"><b>Enter Name Bro: </b></label>
+    <label for="Name"><b>Enter Name : </b></label>
     <input type="text" placeholder="Prasiddh Yadav" name="Name" id="Name" required>
     <br>
     
@@ -12,16 +13,16 @@
     <input type="text" placeholder="Enter moible number as 8369.." name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email: .com </b></label>
-    <input type="text" placeholder="Enter Email as py@gmail.com" name="email" id="email" required>
+    <label for="email"><b>Enter Email:</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Hidden new Password: </b></label>
-    <input type="password" placeholder="Enter Password as 1234" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password: </b></label>
-    <input type="password" placeholder="Repeat Password as 1234" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
@@ -31,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Daksh Yadav !!</h1>
+   <h1> Thankyou, Prasiddh Yadav !!</h1>
 
   
 </form>
